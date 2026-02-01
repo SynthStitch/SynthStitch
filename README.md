@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Daniel Trevino
-
 [LinkedIn](https://www.linkedin.com/in/daniel-trevino-713660307/)
 
 | Front End | Back End | Infra / Systems |

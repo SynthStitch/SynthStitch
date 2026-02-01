@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Daniel Trevino
+
+[LinkedIn](https://www.linkedin.com/in/daniel-trevino-713660307/)
+
+| Front End | Back End | Infra / Systems |
+|----------|----------|----------------|
+| React / React Native | Node.js | AWS |
+| JS / TS | Postgres | Docker |
+| HTML / CSS | MongoDB | Proxmox / Linux |
+
+Full-stack engineer with 3+ years of IT experience, building and operating production systems end-to-end.

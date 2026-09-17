@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [LinkedIn](https://www.linkedin.com/in/daniel-trevino-713660307/)
 
+[Portfolio](https://daniel-trevino.org/)
+
 | Front End | Back End | Infra / Systems |
 |----------|----------|----------------|
 | React / React Native | Node.js | AWS |
